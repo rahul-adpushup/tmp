@@ -1,4 +1,2 @@
 # Let's clean
-## commit 1
-
-## commit 2
+Hi, i am clean now
